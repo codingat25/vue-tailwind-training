@@ -1,5 +1,5 @@
 <template>
-  <div class="home relative">
+  <div class="home font-sans">
     <CarbidHeader> </CarbidHeader>
     <CarbidHeroBanner> </CarbidHeroBanner>
     <CarbidecentVehicles> </CarbidecentVehicles>
