@@ -1,10 +1,10 @@
 <template>
     <header class="flex flex-col md:flex-row flex-wrap justify-center pt-5">
-        <div class="flex justify-between items-center h-10 w-30 mx-5 bg-red-300">
+        <div class="flex justify-between items-center h-10 w-30 mx-5">
             LOGO HERE
 
             <!-- togglebotton -->
-            <div class="block md:hidden md:bg-gray-100 rounded-lg">
+            <div class="block md:hidden md:bg-gray-200 rounded-lg">
                 toggle here
             </div>
         </div>
