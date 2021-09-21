@@ -1,5 +1,5 @@
 <template>
-    <header class="flex flex-col md:flex-row flex-wrap justify-center pt-5">
+    <header class="absolute flex flex-col md:flex-row flex-wrap justify-center w-full text-white pt-5 z-10">
         <div class="flex justify-between items-center h-10 w-30 mx-5">
             LOGO HERE
 

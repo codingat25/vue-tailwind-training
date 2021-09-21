@@ -7,6 +7,10 @@ module.exports = {
     },
    
     extend: {
+      backgroundImage: (theme) => ({
+        "hero-background": "url('./images/header-photo.png')",
+        "hero-background-mobile": "url('./images/mobile-header.png')"
+      }),
       colors:{
         primary :{
           50: '#FD8E35',
