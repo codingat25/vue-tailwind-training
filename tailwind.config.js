@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       backgroundImage: (theme) => ({
         "hero-background": "url('./images/header-photo.png')",
-        "hero-background-mobile": "url('./images/mobile-header.png')"
+        "hero-background-mobile": "url('./images/mobile-header.png')",
+        "logo": "url('./images/Carbid_HeaderLOGO.png')"
       }),
       colors:{
         primary :{

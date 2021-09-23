@@ -1,7 +1,10 @@
 <template>
     <header class="absolute flex flex-col md:flex-row flex-wrap justify-center w-full text-white pt-5 z-10">
         <div class="flex justify-between items-center h-10 w-30 mx-5">
-            LOGO HERE
+            
+            <div class="h-20 w-40">
+                <img class="bg-logo object-contain w-full" src="" alt="">
+            </div>
 
             <!-- togglebotton -->
             <div class="block md:hidden md:bg-gray-200 rounded-lg">
